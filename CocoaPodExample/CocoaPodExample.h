@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <IDMetricsSelfieCapture/FirstViewController.h>
+#import <CocoaPodExample/FirstViewController.h>
 //! Project version number for CocoaPodExample.
 FOUNDATION_EXPORT double CocoaPodExampleVersionNumber;
 
